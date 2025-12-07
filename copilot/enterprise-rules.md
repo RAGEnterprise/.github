@@ -71,7 +71,7 @@ To contribute to any RAGOS Linux project:
 
 1. Review the specific repository's README and contributing guidelines
 2. Familiarize yourself with the declarative approach used throughout the ecosystem
-3. Join the community channels (Discord, Matrix, Telegram - links in organization profile)
+3. Join the community channels (coming soon)
 4. Submit issues and pull requests following the organization templates
 
 ## Architecture Diagram
