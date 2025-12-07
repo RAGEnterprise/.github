@@ -26,10 +26,25 @@ Aqui você encontrará:
 
 ## Projetos em Destaque
 
-- **ragos-builder** → Sistema oficial para gerar a ISO customizada  
-- **ragos-pkgs** → Pacotes, aplicações e integrações oficiais  
-- **ragos-installer** → Instalador automatizado  
-- **ragos-docs** → Documentação oficial do sistema  
+### Core do Sistema
+- **ragos-repo** → Repositório de pacotes binários
+- **ragos-iso** → Build oficial da ISO RAGOS
+- **ragosctl** → Ferramenta CLI declarativa
+- **ragos-modules** → Módulos do sistema (como NixOS modules)
+- **ragos-home** → Gerenciador declarativo de ambiente de usuário
+
+### Branding e Documentação
+- **ragos-branding** → Wallpapers, ícones, logos e assets
+- **ragos-docs** → Documentação oficial do sistema
+
+### Instalação
+- **ragos-installer** → Instalador minimalista baseado em ragosctl  
+
+---
+
+## Estrutura da Organização
+
+Para informações detalhadas sobre a estrutura de repositórios e diretrizes de desenvolvimento, consulte o [RAGEnterprise Organization Structure](../copilot/enterprise-rules.md).
 
 ---
 
