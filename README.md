@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ragos-linux/assets/main/logo.png" width="180">
+  <img src="./logo.png" width="180">
 </p>
 
 <h1 align="center">RAGOS Linux Community Projects</h1>
