@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" width="180">
+  <img src="./logo.jpeg" width="180">
 </p>
 
 <h1 align="center">RAGOS Linux Community Projects</h1>
